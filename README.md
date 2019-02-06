@@ -1,3 +1,4 @@
+                                  ### --- MVC, PHP --- ###
  ###Lektion 1:
  
 -Jag kom på en idee.
@@ -23,3 +24,14 @@
        
 -Sedan gjorde jag resource på internet, hur man kan skriva ett ren php kod och hur man delar koden i olika filer/PHP/HTML/CSS.
 
+-Jag skrev allt PHP kod i den filen som jag skapade och den filen heter db.php.
+
+-Jag skrev register formulären i register.php filen. 
+
+-Loga in formulären skrev jag i login.php filen.
+
+-En validering ligger i error filen, det validerar formuläret.  Till exempel; när man lämnar en e-post,namn osv då kommer en varning
+att man har lämnat inputen tom eller skrev fel.
+
+-Jag har staylat mina formulärt med CSS och allt CSS kod ligger i CSS filen. Jag har inte lagt så mycket tid på styleningen, jag tyckte
+att funktionalitet är viktigare och fokuserat mest på funktionen.
