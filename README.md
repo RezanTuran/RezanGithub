@@ -55,5 +55,5 @@ fixa alla errorna. Jag hade fortfarande några error kvar i min kod.
 flura tid på det. Man ska be om hjälp istället, och det gjorde jag genom fråga min lärare (Magnus). Det tog bara 1 minut fixa hela
 errorna. 
 
--Den metoden som jag lärde mig med (Magnus) hjälpte mig väldigt mycket, om man inte kan lösa en problem med flera timmar så är det ingen
+-Den metoden som jag lärde mig med (Magnus) hjälpte mig väldigt mycket, om man inte kan lösa en error på flera timmar så är det ingen
 mening att slösa din tid på det om du inte kan hitta lösning så ska man begära om hjälp.
