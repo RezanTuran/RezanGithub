@@ -74,3 +74,4 @@ tillsammans.
 -Jag har staylat mina formulärt med CSS och allt CSS kod ligger i CSS filen. Jag har inte lagt så mycket tid på styleningen, jag tyckte
 att funktionalitet är viktigare och fokuserat mest på funktionen.
 
+                          ### Skillnaden mellan min strukturerad kod och min gamla ostrukturerad kod ###
