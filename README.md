@@ -5,7 +5,7 @@
 
 -Min idee är strukturera en PHP kod som jag skrev med Rickhard.
 
--Vi skrev PHP,CSS,JAVASCRIPT och HTML kod i samma fil, min ide är strukturera koden.
+-Vi skrev PHP,CSS,JAVASCRIPT och HTML kod i samma fil, min ide är strukturera koden och dela koden i olika filer.
 
 -Jag ska skriva allt CSS kod i ett CSS fil, allt HTML kod i ett TPL fil, allt PHP kod i ett PHP fil och allt JAVASCRIPT kod i ett JS fil.
 
@@ -33,9 +33,6 @@
 -En validering ligger i error filen, det validerar formuläret.  Till exempel; när man lämnar en e-post,namn osv då kommer en varning
 att man har lämnat inputen tom eller skrev fel.
 
--Jag har staylat mina formulärt med CSS och allt CSS kod ligger i CSS filen. Jag har inte lagt så mycket tid på styleningen, jag tyckte
-att funktionalitet är viktigare och fokuserat mest på funktionen.
-
 ###Lektion 3:
 
 -På tredije lektionen kunde jag inte jobba med min MVC, PHP projekt för att jag fick ett arbetsprov från min praktikplats och jag var
@@ -57,3 +54,23 @@ errorna.
 
 -Den metoden som jag lärde mig med (Magnus) hjälpte mig väldigt mycket, om man inte kan lösa en error på flera timmar så är det ingen
 mening att slösa din tid på det om du inte kan hitta lösning så ska man begära om hjälp.
+
+###Lektion 5:
+
+-Jag hade en problem som jag inte kunde lösa. Problemet: När jag registrerade mig det sparades i databasen och loggade in men jag ville
+användnamnet ska dyka upp. Men användarnamnet dykte inte upp. Jag bad hjälp om hjälp av min lärare(Magnus) och vi löste problemet
+tillsammans.
+
+                              ###--- Fel sätt ---### [ Jag hade skrivit så ]
+                             
+                             $_SESSION['$_GET(firstname')] = $firstname;
+                             $_SESSION['success'] = 'Nu är du inloggad';
+
+                             ###--- Rätt sätt ---### [ Jag har rättat koden hjälp av min lärare. ]
+                             
+                             $_SESSION['firstname'] = $firstname;
+                             $_SESSION['success'] = 'Nu är du inloggad';
+                             
+-Jag har staylat mina formulärt med CSS och allt CSS kod ligger i CSS filen. Jag har inte lagt så mycket tid på styleningen, jag tyckte
+att funktionalitet är viktigare och fokuserat mest på funktionen.
+
