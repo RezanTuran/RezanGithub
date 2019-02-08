@@ -75,3 +75,4 @@ tillsammans.
 att funktionalitet är viktigare och fokuserat mest på funktionen.
 
                           ### Skillnaden mellan min strukturerad kod och min gamla ostrukturerad kod ###
+                        
