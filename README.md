@@ -76,5 +76,7 @@ att funktionalitet är viktigare och fokuserat mest på funktionen.
 
                           ### Skillnaden mellan min strukturerad kod och min gamla ostrukturerad kod ###
                           
+### Här är min strukturerad kod som  PHP och HTML kod ligger i olika filer och det gör att man förstår koden lättare.###             
 ![1](https://user-images.githubusercontent.com/39722976/52724601-f48a5700-2faf-11e9-8c26-74c9340d92a7.png)
+### Här är min gamla kod som är ostrukturerad, och det gör att man har svårt förstå koden.### 
 ![gamlakod](https://user-images.githubusercontent.com/39722976/52725122-dc670780-2fb0-11e9-8789-48ed62a444d4.png)
