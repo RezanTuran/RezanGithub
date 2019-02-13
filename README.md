@@ -75,4 +75,5 @@ tillsammans.
 att funktionalitet är viktigare och fokuserat mest på funktionen.
 
                           ### Skillnaden mellan min strukturerad kod och min gamla ostrukturerad kod ###
-                        
+                          
+![1](https://user-images.githubusercontent.com/39722976/52724601-f48a5700-2faf-11e9-8c26-74c9340d92a7.png)
